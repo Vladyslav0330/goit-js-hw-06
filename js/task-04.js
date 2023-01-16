@@ -1,5 +1,4 @@
 const decrementBtn = document.querySelectorAll("button")[0];
-// const value = document.querySelector("#value");
 let value = 0;
 const incrementBtn = document.querySelectorAll("button")[1];
 
